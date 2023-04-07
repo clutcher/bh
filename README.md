@@ -13,5 +13,7 @@ Plugin allows creating custom highlighting for commented lines and language keyw
     + PHP
     + Javascript/Typescript
     + C/C++/ObjectiveC
+    + Rust
     + C#
     + XML/HTML
+    + Lua
